@@ -1,0 +1,18 @@
+{
+  "name": "login-http",
+  "version": "1.0.0",
+  "description": "I will implement a login basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "api"
+  ],
+  "author": "marcan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
